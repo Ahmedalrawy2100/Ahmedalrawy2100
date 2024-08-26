@@ -1,10 +1,6 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hridoy</h1>
 
-
-
-<h1 align="center">Hi 👋, I'm rawy</h1>
-
-I am ahmed alrawy,I am currently pursuing my Bachelors in computer science from [Metropolitan University](https://metrouni.edu.bd/). I am a tech enthusiast & a self learner.
+I am Shahadat Hossain Hridoy Al,I am currently pursuing my Bachelors in computer science from [Metropolitan University](https://metrouni.edu.bd/). I am a tech enthusiast & a self learner.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p>
 
